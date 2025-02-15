@@ -17,3 +17,8 @@
 - 📁 **Multi-domain Support** - Scan multiple targets at once  
 
 ---
+🛠️ Usage
+✅ Basic Scan
+bash
+Copy
+python wadeep.py -u example.com -w wordlists/full.txt
