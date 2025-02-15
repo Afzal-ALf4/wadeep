@@ -2,8 +2,6 @@
 Uncover hidden endpoints, admin panels &amp; authentication portals with military-grade precision. "The web archivist's Swiss Army knife" – A must-have for pentesters &amp; bug bounty hunters."
 # 🔍 WaDeep - Web Reconnaissance Toolkit
 
-# 🔍 WaDeep - Advanced Web Reconnaissance Toolkit
-
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 ![GitHub Release](https://img.shields.io/github/release/AfzalShahDev/WaDeep)
