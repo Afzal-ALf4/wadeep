@@ -21,6 +21,7 @@
 # ⚡ Installation
 bash
 Copy
+
 git clone https://github.com/AfzalShahDev/WaDeep.git
 cd WaDeep
 pip install -r requirements.txt
@@ -36,3 +37,10 @@ bash
 Copy
 # Multi-threaded scan with custom timeout
 python wadeep.py -l targets.txt -w wordlists/critical.txt -t 30
+
+# 📂 Output Samples
+plaintext
+Copy
+example.com_wayback.txt
+example.com_admin_logins.txt
+example.com_bruteforce.txt
