@@ -20,8 +20,7 @@
 
 # ⚡ Installation
 bash
-Copy
-
+Copy   
 git clone https://github.com/AfzalShahDev/WaDeep.git
 cd WaDeep
 pip install -r requirements.txt
