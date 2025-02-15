@@ -17,8 +17,15 @@
 - 📁 **Multi-domain Support** - Scan multiple targets at once  
 
 ---
-🛠️ Usage
+
+# 🛠️ Usage
 ✅ Basic Scan
 bash
 Copy
 python wadeep.py -u example.com -w wordlists/full.txt
+
+# 🚀 Advanced Options
+bash
+Copy
+# Multi-threaded scan with custom timeout
+python wadeep.py -l targets.txt -w wordlists/critical.txt -t 30
